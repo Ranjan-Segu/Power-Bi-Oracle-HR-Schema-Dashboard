@@ -25,6 +25,10 @@ AVERAGE SALARY BY DESIGNATION
 ![image](https://github.com/Ranjan-Segu/Power-Bi-Oracle-HR-Schema-Dashboard/assets/168505027/769594ca-a876-42a5-8b68-00fd15434ad1) = ![image](https://github.com/Ranjan-Segu/Power-Bi-Oracle-HR-Schema-Dashboard/assets/168505027/de5bd770-9ddf-4ddd-af72-99d54b1edb02)
 
 
-Verified the data from Power Bi vis a vis data from sql developer for accuracy and have uploaded the Pbix and other corresponding files.
+Verified the data from Power Bi vis a vis data from sql developer for accuracy and have uploaded the Pbix and other corresponding files
+
+Finally published the dashboard to power bi service in the below path
+
+https://app.powerbi.com/groups/me/reports/27a0da2d-9932-4f7f-b3f9-c3382b34cb3c/861f6d0379b090003cd9?experience=power-bi
 
 
